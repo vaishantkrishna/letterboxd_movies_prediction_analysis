@@ -1,6 +1,7 @@
 # dsc478finalproject
 LetterBoxd Movies Ratings Analysis and Prediction
 
+```
 PROJECT DIRECTORY (for working file paths)/
 |
 |-- data/
@@ -31,5 +32,4 @@ PROJECT DIRECTORY (for working file paths)/
 |
 `-- notebooks/
     `-- letterboxd_final_project.ipynb
-
-Source:
+```
